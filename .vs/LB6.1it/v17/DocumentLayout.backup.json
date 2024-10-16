@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\project\\LB6.1it\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B08D458-535B-47F9-B0A4-06B4856ABD05}|LB6.1it\\LB6.1it.vcxproj|D:\\project\\LB6.1it\\LB6.1it\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6B08D458-535B-47F9-B0A4-06B4856ABD05}|LB6.1it\\LB6.1it.vcxproj|solutionrelative:LB6.1it\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB9C081-82D0-403D-87E4-5880936E74D3}|UnitTest6.1it\\UnitTest6.1it.vcxproj|D:\\project\\LB6.1it\\UnitTest6.1it\\UnitTest6.1it.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5BB9C081-82D0-403D-87E4-5880936E74D3}|UnitTest6.1it\\UnitTest6.1it.vcxproj|solutionrelative:UnitTest6.1it\\UnitTest6.1it.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\project\\LB6.1it\\LB6.1it\\main.cpp",
+              "RelativeDocumentMoniker": "LB6.1it\\main.cpp",
+              "ToolTip": "D:\\project\\LB6.1it\\LB6.1it\\main.cpp",
+              "RelativeToolTip": "LB6.1it\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-16T17:06:29.637Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest6.1it.cpp",
+              "DocumentMoniker": "D:\\project\\LB6.1it\\UnitTest6.1it\\UnitTest6.1it.cpp",
+              "RelativeDocumentMoniker": "UnitTest6.1it\\UnitTest6.1it.cpp",
+              "ToolTip": "D:\\project\\LB6.1it\\UnitTest6.1it\\UnitTest6.1it.cpp",
+              "RelativeToolTip": "UnitTest6.1it\\UnitTest6.1it.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-16T17:07:50.788Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
